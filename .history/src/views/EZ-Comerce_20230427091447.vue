@@ -1,0 +1,13 @@
+<template>
+    <div class="ez-commerce">
+        <h1>EZ-Commerce</h1>
+        <h2>Display ALL of your POS Products on a simple & automated E-Commerce Site</h2>
+        <button>Con</button>
+    </div>
+  </template>
+  
+  <script>
+  export default {
+    name: 'NotFound'
+  }
+  </script>
