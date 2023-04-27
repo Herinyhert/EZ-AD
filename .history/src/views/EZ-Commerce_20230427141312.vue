@@ -1,0 +1,18 @@
+<template>
+    <div class="ez-commerce">
+        <h1>EZ-Commerce</h1>
+        <h2>Display ALL of your POS Products on a simple & automated E-Commerce Site</h2>
+        <button type="button" class="btn btn-light">Contactus US</button>
+        <Ez-Commerce/>
+    </div>
+  </template>
+  
+  <script>
+  import EzCommerce from '@/components/Ez-Commerce.vue';
+  export default {
+    name: 'ez-commerce',
+    components: {
+
+    }
+  }
+  </script>
