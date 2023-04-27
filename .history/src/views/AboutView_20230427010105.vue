@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>Estoy en el otro lado</h1>
+    <h1>Estoy en el otro</h1>
   </div>
 </template>
