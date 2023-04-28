@@ -1,5 +1,5 @@
 <template>
-  <div class="content">
+  <div class="content" style="background-image: url(");">
     <div class="cont-1">
       <div class="cont-text">
         <h1>In-Store Digital Signage System</h1>
@@ -492,10 +492,6 @@ export default {
   margin: 8%;
   font-family: Georgia, "Times New Roman", Times, serif;
   justify-content: center;
-  /* background-image: url("../components/image/99562629-papel-de-dos-colores-con-superposición-azul-y-blanca-en-el-piso-y-dividir-la-mitad-de-la-imagen.png");
-  background-repeat: no-repeat;
-  background-size: cover; */
-
 }
 .content h1 {
   color: rgb(135, 214, 207);

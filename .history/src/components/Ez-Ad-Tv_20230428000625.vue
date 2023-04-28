@@ -255,7 +255,7 @@
     </div>
     <div class="cont-6">
       <div>
-        <h1 style="color: aliceblue;">FAQS</h1>
+        <h1>FAQS</h1>
         <div class="accordion" id="accordionPanelsStayOpenExample">
           <div class="accordion-item">
             <h2 class="accordion-header" id="panelsStayOpen-headingOne">
@@ -459,7 +459,6 @@
                 data-bs-target="#panelsStayOpen-collapseSix"
                 aria-expanded="false"
                 aria-controls="panelsStayOpen-collapseSix"
-                style="background-color: rgb(123, 246, 205);"
               >
                 Is there a contract, cancellation fee or other hidden fees?
               </button>
@@ -469,7 +468,7 @@
               class="accordion-collapse collapse"
               aria-labelledby="panelsStayOpen-headingSix"
             >
-              <div class="accordion-body" style="background-color: rgb(123, 246, 205);">
+              <div class="accordion-body">
                 No, absolutely not. You can cancel at any time. You also have 30
                 days to return the EZ-AD Media Player for your full money back.
               </div>
@@ -492,10 +491,6 @@ export default {
   margin: 8%;
   font-family: Georgia, "Times New Roman", Times, serif;
   justify-content: center;
-  /* background-image: url("../components/image/99562629-papel-de-dos-colores-con-superposición-azul-y-blanca-en-el-piso-y-dividir-la-mitad-de-la-imagen.png");
-  background-repeat: no-repeat;
-  background-size: cover; */
-
 }
 .content h1 {
   color: rgb(135, 214, 207);
@@ -716,6 +711,5 @@ p {
 }
 .cont-6 {
   background-color: rgb(123, 246, 205);
-  margin-top: 20%;
 }
 </style>

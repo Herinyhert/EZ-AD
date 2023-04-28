@@ -717,5 +717,6 @@ p {
 .cont-6 {
   background-color: rgb(123, 246, 205);
   margin-top: 20%;
+  
 }
 </style>

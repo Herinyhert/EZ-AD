@@ -1,5 +1,6 @@
 <template>
   <div class="content">
+
     <div class="cont-1">
       <div class="cont-text">
         <h1>In-Store Digital Signage System</h1>

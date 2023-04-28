@@ -717,5 +717,6 @@ p {
 .cont-6 {
   background-color: rgb(123, 246, 205);
   margin-top: 20%;
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#0099ff" fill-opacity="5" d="M0,256L120,218.7C240,181,480,107,720,64C960,21,1200,11,1320,5.3L1440,0L1440,0L1320,0C1200,0,960,0,720,0C480,0,240,0,120,0L0,0Z"></path></svg>
 }
 </style>
