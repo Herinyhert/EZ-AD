@@ -492,7 +492,10 @@ export default {
   margin: 8%;
   font-family: Georgia, "Times New Roman", Times, serif;
   justify-content: center;
-  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+  /* background-image: url("../components/image/99562629-papel-de-dos-colores-con-superposición-azul-y-blanca-en-el-piso-y-dividir-la-mitad-de-la-imagen.png");
+  background-repeat: no-repeat;
+  background-size: cover; */
+background-color: ;
 }
 .content h1 {
   color: rgb(135, 214, 207);
