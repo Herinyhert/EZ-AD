@@ -179,16 +179,9 @@
     </div>
     <div class="cont-4">
       <h1>Affordable Pricing</h1>
-      <div class="cont-4-1">
-        <div>$180</div>
-        <img
-          src="./image/ezad_tv_box.png"
-          alt="ezad_tv_box"
-          style="width: 100px"
-        />
-        <button>Select</button>
-        <button>Select</button>
-      </div>
+      <img src="./image/ezad_tv_box.png" alt="ezad_tv_box" style=""/>
+      <button>Select</button>
+      <button>Select</button>
     </div>
     <div class="cont-5">
       <h1>Are you a distributor/wholesaler? <a href="">Get a Quote</a></h1>
@@ -276,7 +269,7 @@ p {
   justify-content: center;
   padding: 10px;
 }
-.cont-4-1 {
+.cont-4 {
   margin-top: 10%;
   display: grid;
   grid-template-columns: repeat(auto-fill, 500px);

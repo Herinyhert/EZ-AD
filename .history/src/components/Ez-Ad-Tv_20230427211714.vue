@@ -180,7 +180,6 @@
     <div class="cont-4">
       <h1>Affordable Pricing</h1>
       <div class="cont-4-1">
-        <div>$180</div>
         <img
           src="./image/ezad_tv_box.png"
           alt="ezad_tv_box"

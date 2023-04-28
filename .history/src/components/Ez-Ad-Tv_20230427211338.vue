@@ -48,18 +48,8 @@
           <div>
             <img src="./image/install1.png" alt="" />
             <div class="cont-text-in-2-text">
-              <p
-                style="
-                  background-color: rgb(135, 214, 207);
-                  border-radius: 50%;
-                  height: 40px;
-                  width: 40px;
-                  color: aliceblue;
-                "
-              >
-                1
-              </p>
-              <p style="width: 200px; font-size: 1rem">
+              <p style="background-color: rgb(135, 214, 207);border-radius: 50%;height:40px;width: 40px;color: aliceblue;">1</p>
+              <p style="width: 200px;font-size: 1rem;">
                 Connect the HDMI cable from your TV to the EZ-AD Media Player
               </p>
             </div>
@@ -67,18 +57,8 @@
           <div>
             <img src="./image/install2.png" alt="" />
             <div class="cont-text-in-2-text">
-              <p
-                style="
-                  background-color: rgb(135, 214, 207);
-                  border-radius: 50%;
-                  height: 40px;
-                  width: 40px;
-                  color: aliceblue;
-                "
-              >
-                2
-              </p>
-              <p style="width: 200px; font-size: 1rem">
+                <p style="background-color: rgb(135, 214, 207);border-radius: 50%;height:40px;width: 40px;color: aliceblue;">2</p>
+                <p style="width: 200px;font-size: 1rem;">
                 Connect the EZ-AD Media Player to a Wifi Network or Ethernet
                 cable. All media is downloaded and stored on the device.
               </p>
@@ -87,20 +67,9 @@
           <div>
             <img src="./image/install3.png" alt="" />
             <div class="cont-text-in-2-text">
-              <p
-                style="
-                  background-color: rgb(135, 214, 207);
-                  border-radius: 50%;
-                  height: 40px;
-                  width: 40px;
-                  color: aliceblue;
-                "
-              >
-                3
-              </p>
-              <p style="width: 200px; font-size: 1rem">
-                Log onto www.EZADTV.com to create your content & playlist.
-              </p>
+                <p style="background-color: rgb(135, 214, 207);border-radius: 50%;height:40px;width: 40px;color: aliceblue;">3</p>
+                <p style="width: 200px;font-size: 1rem;">
+                Log onto www.EZADTV.com to create your content & playlist.</p>
             </div>
           </div>
         </div>
@@ -124,10 +93,8 @@
       </div>
       <div class="cont-text-2">
         <div>
-          <h1>
-            <strong style="color: red">New</strong> Mobile App Allows Complete
-            Control At Your Fingertips
-          </h1>
+          <h1><strong style="color: red;">New</strong> Mobile App Allows
+            Complete Control At Your Fingertips</h1>
           <p>
             The EZ-AD Mobile App makes it easy to update, manage & create
             content right from your mobile device. With support for iOS &
@@ -135,20 +102,10 @@
             TV. Scan products and automatically create signs or browse our
             vendor gallery all from the palm of your hand.
           </p>
-          <a href="#"
-            ><img
-              src="./image/download-apps-button-google.jpg"
-              alt="apps-button-google"
-              style="width: 150px; border-radius: 10px"
-          /></a>
-          <a href="#">
-            <img
-              src="./image/download-apps-button-store.jpg"
-              alt="apps-button-store"
-              style="width: 150px; border-radius: 10px"
-          /></a>
+          <a href="#"><img src="./image/download-apps-button-google.jpg" alt="apps-button-google" style="width: 150px;border-radius: 10px;"></a>
+          <a href="#">          <img src="./image/download-apps-button-store.jpg" alt="apps-button-store" style="width: 150px;border-radius: 10px;"></a>
         </div>
-        <img src="./image/mobile_app.png" alt="" style="width: 500px" />
+        <img src="./image/mobile_app.png" alt="" style="width: 500px;"/>
       </div>
       <div class="cont-text-2-1">
         <div>
@@ -161,34 +118,18 @@
             or a highlighted message that customers can clearly see
           </p>
         </div>
-        <img
-          src="./image/diff-screen-layouts.png"
-          alt="Different Screen"
-          style="width: 100%"
-        />
+        <img src="./image/diff-screen-layouts.png" alt="Different Screen" style="width: 100%;"/>
       </div>
     </div>
-    <div
-      class="cont-3"
-      style="background-color: rgb(242, 242, 242); height: 120px"
-    >
-      <h1 style="color: rgb(135, 214, 207)">What are you waiting for?</h1>
-      <a href="https://ezadtv.com/orders"
-        ><button type="button" class="btn btn-primary">Order Now</button></a
-      >
+    <div class="cont-3" style="background-color: rgb(242, 242, 242);height: 120px;">
+      <h1 style="color:rgb(135, 214, 207);">What are you waiting for?</h1>
+      <a href="https://ezadtv.com/orders"><button type="button" class="btn btn-primary">Order Now</button></a>
     </div>
     <div class="cont-4">
       <h1>Affordable Pricing</h1>
-      <div class="cont-4-1">
-        <div>$180</div>
-        <img
-          src="./image/ezad_tv_box.png"
-          alt="ezad_tv_box"
-          style="width: 100px"
-        />
-        <button>Select</button>
-        <button>Select</button>
-      </div>
+      <img src="./image/ezad_tv_box.png" alt="" />
+      <button>Select</button>
+      <button>Select</button>
     </div>
     <div class="cont-5">
       <h1>Are you a distributor/wholesaler? <a href="">Get a Quote</a></h1>
@@ -256,28 +197,28 @@ p {
   margin: 10% 5%;
   justify-content: center;
 }
-.cont-text-2 img {
-  width: 400px;
-  height: auto;
-  margin: 5%;
+.cont-text-2 img{
+    width: 400px;
+    height: auto;
+    margin: 5%;
 }
-.cont-text-in {
-  background-color: rgb(242, 242, 242);
+.cont-text-in{
+    background-color: rgb(242, 242, 242);
 }
 .cont-text-in-2 {
-  display: flex;
-  justify-content: center;
+    display: flex;
+    justify-content: center;
 }
-.cont-text-in-2 img {
-  width: 250px;
+.cont-text-in-2 img{
+    width: 250px;
 }
-.cont-text-in-2-text {
-  display: flex;
-  justify-content: center;
-  padding: 10px;
+.cont-text-in-2-text{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
 }
-.cont-4-1 {
-  margin-top: 10%;
+.cont-4 {
+        
   display: grid;
   grid-template-columns: repeat(auto-fill, 500px);
   gap: 40px;
